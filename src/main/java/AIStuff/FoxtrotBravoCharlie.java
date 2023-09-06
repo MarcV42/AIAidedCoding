@@ -1,7 +1,7 @@
+package AIStuff;
 
 
-
-    public class FoxtrotBravoCharlie {
+public class FoxtrotBravoCharlie {
 
         public static void main(String[] args) {
             int[] zulu = {5, 2, 9, 1, 5, 6};

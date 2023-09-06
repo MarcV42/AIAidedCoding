@@ -1,3 +1,5 @@
+package AIStuff;
+
 public class StringReversal {
     public static void main(String[] args) {
         String input = "Hallo";

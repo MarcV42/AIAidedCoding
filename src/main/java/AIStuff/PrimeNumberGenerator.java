@@ -1,3 +1,5 @@
+package AIStuff;
+
 public class PrimeNumberGenerator {
     public static void main(String[] args) {
         int numberOfPrimes = 10;
